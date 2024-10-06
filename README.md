@@ -8,4 +8,4 @@ This work was done as a team-project for the course Digital Image Prcoessing for
 ### Detailed Report:
 Github does not allow Latex-rendering, so we are attatching the link of the detailed report : https://hackmd.io/@CQcFfDOXTCm_cEcrvtrC8Q/SyfjKC4KY
 
-Also added report pdf for convinience. 
+Also added report pdf for convenience
